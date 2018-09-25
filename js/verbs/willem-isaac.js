@@ -1,6 +1,7 @@
 verbs = verbs.concat([
-    'walk',
-    'skip',
-    'drive',
-    'fall'
+    'walked',
+    'skipped',
+    'drove',
+    'fell',
+    'spat'
 ]);
